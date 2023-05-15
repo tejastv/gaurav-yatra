@@ -106,5 +106,5 @@ $(window).on("load", function () {
   }
   gtag("js", new Date());
 
-  gtag("config", "UA-161453786-1");
+  gtag("config", "376098415");
 });
