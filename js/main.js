@@ -106,5 +106,5 @@ $(window).on("load", function () {
   }
   gtag("js", new Date());
 
-  gtag("config", "376098415");
+  gtag("config", "G-02RE872NL7");
 });
